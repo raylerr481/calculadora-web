@@ -1,0 +1,8 @@
+body {font-family: Arial;background: #f3f3f3;display: flex;justify-content: center;margin-top: 50px;}
+.container {background: white;padding: 25px;width: 350px;border-radius: 10px;box-shadow: 0 0 10px #bbb;}
+h1 {text-align: center;}
+form {display: flex;flex-direction: column;gap: 10px;}
+input, select, button {padding: 10px;font-size: 16px;}
+button {background: #4CAF50;color: white;border: none;cursor: pointer;}
+button:hover {background: #45A049;}
+.resultado {margin-top: 20px;text-align: center;font-size: 20px;}
